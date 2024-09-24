@@ -1,0 +1,27 @@
+[
+  {
+    "Name": "T-Rex",
+    "Size": 3.7,
+    "TimePeriod": "Creataceous"
+  }
+  {
+    "Name": "Wooly Mammoth",
+    "Size": 3.7,
+    "TimePeriod": "Quaternary"
+  },
+  {
+    "Name": "Lystrosaurus",
+    "Size": 1.5,
+    "TimePeriod": "Permian"
+  },
+  {
+    "Name": "Meganeuropsis",
+    "Size": 0.7,
+    "TimePeriod": "Permian"
+  },
+  {
+    "Name": "Jaekelopterus Rhenaniae",
+    "Size": 2011,
+    "TimePeriod": "Devonian"
+  }
+]

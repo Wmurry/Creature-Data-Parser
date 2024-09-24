@@ -1,0 +1,14 @@
+C:\Users\Wmurr\source\repos\Udemy\Game Data Parser\bin\Debug\net7.0\Game Data Parser.exe
+C:\Users\Wmurr\source\repos\Udemy\Game Data Parser\bin\Debug\net7.0\Game Data Parser.deps.json
+C:\Users\Wmurr\source\repos\Udemy\Game Data Parser\bin\Debug\net7.0\Game Data Parser.runtimeconfig.json
+C:\Users\Wmurr\source\repos\Udemy\Game Data Parser\bin\Debug\net7.0\Game Data Parser.dll
+C:\Users\Wmurr\source\repos\Udemy\Game Data Parser\bin\Debug\net7.0\Game Data Parser.pdb
+C:\Users\Wmurr\source\repos\Udemy\Game Data Parser\obj\Debug\net7.0\Game Data Parser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wmurr\source\repos\Udemy\Game Data Parser\obj\Debug\net7.0\Game Data Parser.AssemblyInfoInputs.cache
+C:\Users\Wmurr\source\repos\Udemy\Game Data Parser\obj\Debug\net7.0\Game Data Parser.AssemblyInfo.cs
+C:\Users\Wmurr\source\repos\Udemy\Game Data Parser\obj\Debug\net7.0\Game Data Parser.csproj.CoreCompileInputs.cache
+C:\Users\Wmurr\source\repos\Udemy\Game Data Parser\obj\Debug\net7.0\Game Data Parser.dll
+C:\Users\Wmurr\source\repos\Udemy\Game Data Parser\obj\Debug\net7.0\refint\Game Data Parser.dll
+C:\Users\Wmurr\source\repos\Udemy\Game Data Parser\obj\Debug\net7.0\Game Data Parser.pdb
+C:\Users\Wmurr\source\repos\Udemy\Game Data Parser\obj\Debug\net7.0\Game Data Parser.genruntimeconfig.cache
+C:\Users\Wmurr\source\repos\Udemy\Game Data Parser\obj\Debug\net7.0\ref\Game Data Parser.dll

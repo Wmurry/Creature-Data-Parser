@@ -1,0 +1,14 @@
+C:\Users\Wmurr\source\repos\Udemy\Creature Data Parser\bin\Debug\net7.0\Creature Data Parser.exe
+C:\Users\Wmurr\source\repos\Udemy\Creature Data Parser\bin\Debug\net7.0\Creature Data Parser.deps.json
+C:\Users\Wmurr\source\repos\Udemy\Creature Data Parser\bin\Debug\net7.0\Creature Data Parser.runtimeconfig.json
+C:\Users\Wmurr\source\repos\Udemy\Creature Data Parser\bin\Debug\net7.0\Creature Data Parser.dll
+C:\Users\Wmurr\source\repos\Udemy\Creature Data Parser\bin\Debug\net7.0\Creature Data Parser.pdb
+C:\Users\Wmurr\source\repos\Udemy\Creature Data Parser\obj\Debug\net7.0\Creature Data Parser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wmurr\source\repos\Udemy\Creature Data Parser\obj\Debug\net7.0\Creature Data Parser.AssemblyInfoInputs.cache
+C:\Users\Wmurr\source\repos\Udemy\Creature Data Parser\obj\Debug\net7.0\Creature Data Parser.AssemblyInfo.cs
+C:\Users\Wmurr\source\repos\Udemy\Creature Data Parser\obj\Debug\net7.0\Creature Data Parser.csproj.CoreCompileInputs.cache
+C:\Users\Wmurr\source\repos\Udemy\Creature Data Parser\obj\Debug\net7.0\Creature Data Parser.dll
+C:\Users\Wmurr\source\repos\Udemy\Creature Data Parser\obj\Debug\net7.0\refint\Creature Data Parser.dll
+C:\Users\Wmurr\source\repos\Udemy\Creature Data Parser\obj\Debug\net7.0\Creature Data Parser.pdb
+C:\Users\Wmurr\source\repos\Udemy\Creature Data Parser\obj\Debug\net7.0\Creature Data Parser.genruntimeconfig.cache
+C:\Users\Wmurr\source\repos\Udemy\Creature Data Parser\obj\Debug\net7.0\ref\Creature Data Parser.dll
